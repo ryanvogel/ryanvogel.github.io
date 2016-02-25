@@ -1,0 +1,64 @@
+{
+   "meta":{
+      "code":200
+   },
+   "response":{
+      "venues":[
+         {
+            "id":"4abfb58ef964a520be9120e3",
+            "name":"Costco",
+            "contact":{
+               "phone":"6045967435",
+               "formattedPhone":"(604) 596-7435"
+            },
+            "location":{
+               "address":"7423 King George Hwy",
+               "crossStreet":"btw 76 Avenue & 73A Avenue",
+               "lat":49.138259617056015,
+               "lng":-122.84723281860352,
+               "distance":19000,
+               "postalCode":"V3W 5A8",
+               "city":"Surrey",
+               "state":"BC",
+               "country":"Canada",
+               "cc":"CA"
+            },
+            "canonicalUrl":"https:\/\/foursquare.com\/v\/costco\/4abfb58ef964a520be9120e3",
+            "categories":[
+               {
+                  "id":"4bf58dd8d48988d1f6941735",
+                  "name":"Department Store",
+                  "pluralName":"Department Stores",
+                  "shortName":"Department Store",
+                  "icon":{
+                     "prefix":"https:\/\/foursquare.com\/img\/categories_v2\/shops\/departmentstore_",
+                     "suffix":".png"
+                  },
+                  "primary":true
+               }
+            ],
+            "verified":true,
+            "restricted":true,
+            "stats":{
+               "checkinsCount":2038,
+               "usersCount":533,
+               "tipCount":12
+            },
+            "url":"http:\/\/www.costco.ca",
+            "specials":{
+               "count":0,
+               "items":[
+
+               ]
+            },
+            "hereNow":{
+               "count":0,
+               "groups":[
+
+               ]
+            },
+            "referralId":"v-1366316196"
+         }
+      ]
+   }
+}
